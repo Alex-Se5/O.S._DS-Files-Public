@@ -1,1 +1,1 @@
-# DS-Proekts-Public
+# DS-Projects-Public
